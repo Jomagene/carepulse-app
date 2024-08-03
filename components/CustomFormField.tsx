@@ -9,7 +9,7 @@ import {
 } from "@/components/ui/form";
 import { Input } from "@/components/ui/input";
 import { Control } from "react-hook-form";
-import { FromFieldType } from "./PatientForm";
+import { FromFieldType } from "./forms/PatientForm";
 import Image from "next/image";
 
 import "react-phone-number-input/style.css";
